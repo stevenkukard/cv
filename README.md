@@ -1,4 +1,4 @@
-# cv
+# CV
 
 ## How to set up Jekyll on MacOS
 https://jekyllrb.com/docs/installation/macos/
