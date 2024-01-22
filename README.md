@@ -1,5 +1,9 @@
 # CV
 
+## How to serve this site locally
+- `bundle install`
+- `bundle exec jekyll serve`
+
 ## How to set up Jekyll on MacOS
 https://jekyllrb.com/docs/installation/macos/
 - `brew install chruby ruby-install xz`
