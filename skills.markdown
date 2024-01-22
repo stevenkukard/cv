@@ -6,25 +6,14 @@ permalink: /skills/
 
 ## Approach
 
-### Back end
-These days I deploy serverless processes that communicate with each other via HTTP endpoints. Soon, I hope to begin integrating AI/LLM workers into this architecture. 
+On the back end I deploy **serverless processes** that communicate with each other via HTTP endpoints. Soon, I hope to begin integrating AI/LLM workers into this architecture. 
 
-### Front end
-I mainly use Python and R UI frameworks (Streamlit, Dash, Shiny) running in containers on the cloud.
+On the front end I mainly use Python and R **UI frameworks** (Streamlit, Dash, Shiny) running in containers on the cloud.
 
 ---
 ## Programming Languages
-### Python
-- Pandas
-- Numpy
-- Streamlit
-- Dash
-
-### R
-- Tidyverse
-- Shiny
-
-### Other
+- **Python**
+- **R**
 - SQL
 - Javascript
 - HTML
