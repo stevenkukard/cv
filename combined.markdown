@@ -16,7 +16,7 @@ layout: print
 <!-- ## Introduction -->
 <!-- This is the online home for my CV, specifically focused on Data Science.  -->
 
-My professional and academic journey is a tapestry of diverse and rich experiences, spanning from music to finance, and culminating in data science. This unique blend of creativity and analytical skills has shaped my approach to problem-solving and innovation. This CV outlines a career characterised by versatility, technical expertise, and a continuous pursuit of learning and growth.
+My professional and academic journey is a tapestry of diverse and rich experiences, from music to financial markets, culminating in data science. This unique blend of creativity and analytical skills has shaped my approach to problem-solving and innovation. This CV outlines a career characterised by versatility, technical expertise, and a continuous pursuit of learning and growth.
 
 <img src="/assets/steven-portrait-cropped.jpg" alt="Image: Portrait" width="100"/>
 
@@ -162,6 +162,8 @@ On the front end I mainly use Python and R **UI frameworks** (Streamlit, Dash, S
 
 
 My journey has taken me from music, to finance, to data science. I've kept a foot in the music world, taking on the occasional composition project.
+
+<!-- After completing my undergraduate degree in music, I spent a year working as a freelance composer and music producer. I then moved into finance, working as a quantitative analyst for a hedge fund. I spent 5 years in finance, completing my CFA 1 and honours degree in statistics. I then moved into data science, working as a data scientist for a large South African retailer. I've been working as a data scientist for the past 3 years. -->
 
 ---
 
