@@ -35,5 +35,5 @@ def combine_markdown_files(list_of_markdown_files, output_file):
 list_of_markdown_files = ['index.markdown', 'experience.markdown', 'projects.markdown', 'skills.markdown', 'education.markdown']
 list_of_section_headings = ['Introduction', 'Experience', 'Projects', 'Skills', 'Education']
 section_headings_dict = dict(zip(list_of_markdown_files, list_of_section_headings))
-output_file = 'combined.markdown'
+output_file = 'print.markdown'
 combine_markdown_files(list_of_markdown_files, output_file)
