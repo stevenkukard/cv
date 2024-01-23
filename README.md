@@ -6,6 +6,9 @@ This is my personal CV. It is built using Jekyll, hosted on GitHub Pages, and se
 
 # Dev Setup
 
+## Creating the print version
+Once you have updated the content, create `print.markdown` by running `/utils/combine_markdown_docs.py`.
+
 ## How to serve this site locally
 - `bundle install`
 - `bundle exec jekyll serve`
