@@ -22,6 +22,7 @@ def combine_markdown_files(list_of_markdown_files, output_file):
             with open(filename, 'r') as infile:
                 content = infile.read()
                 cleaned_content = remove_front_matter(content)
+                cleaned_content = remove_slash_in_front_of_assets(cleaned_content)
                 section_heading = section_headings_dict[filename]
                 outfile.write('# ' + section_heading + '\n\n')
                 outfile.write(cleaned_content + '\n\n')
