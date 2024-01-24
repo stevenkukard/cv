@@ -26,6 +26,7 @@ https://jekyllrb.com/docs/installation/macos/
 
 # Features to add
 
+- Links to company websites on the Experience page. 
 - 'As of' date (in the footer).
 - 'Print' button (in the footer).
 
